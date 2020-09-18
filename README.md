@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Earthlings, 
+my name is David. I like to code and pray.
